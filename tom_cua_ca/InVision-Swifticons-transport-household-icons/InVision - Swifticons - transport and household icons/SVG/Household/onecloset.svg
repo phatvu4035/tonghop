@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="onecloset" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108 212" enable-background="new 0 0 108 212" xml:space="preserve">
+<g>
+	<path fill="#4F676D" d="M16,199.5936V212h8v-12h-3.9884C18.6388,200,17.2968,199.8592,16,199.5936z"/>
+	<path fill="#63B473" d="M92,0.4064V192v7.5936c9.1191-1.8652,16-9.9588,16-19.6328V20.0392C108,10.3652,101.1191,2.2716,92,0.4064z
+		"/>
+	<path fill="#63B473" d="M84,0H20.0116C8.9764,0,0,8.9904,0,20.0392v159.9216c0,9.674,6.8808,17.7676,16,19.6328
+		C17.2968,199.8592,18.6388,200,20.0116,200H24h60v-8V0z M24,112h-8V84h8V112z"/>
+	<polygon fill="#4F676D" points="84,200 84,212 92,212 92,200 87.9884,200 	"/>
+	<rect x="16" y="84" fill="#4F676D" width="8" height="28"/>
+	<polygon fill="#99D59D" points="92,0.4064 92,0 87.9884,0 84,0 84,192 84,200 87.9884,200 92,200 92,199.5936 92,192 	"/>
+</g>
+</svg>

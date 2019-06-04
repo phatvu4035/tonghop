@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="floorbed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 216 160" enable-background="new 0 0 216 160" xml:space="preserve">
+<g>
+	<polygon fill="none" points="12,120 12,104 8,104 8,120 8.006,120 	"/>
+	<rect x="8" y="80" fill="none" width="4" height="16"/>
+	<polygon fill="none" points="204,56 204,120 207.992,120 207.9979,120 208,56 207.992,56 	"/>
+	<rect x="20" y="104" fill="none" width="28" height="16"/>
+	<polygon fill="none" points="8.008,56 8,56 8,72 12,72 12,56 	"/>
+	<rect x="20" y="56" fill="none" width="28" height="16"/>
+	<rect x="20" y="80" fill="none" width="28" height="16"/>
+	<path fill="none" d="M56,56v16v8v16v8v16h36.2012C92.0704,119.3557,92,118.6877,92,118c0-5.5235,4.4904-10,10-10h80
+		c5.5235,0,10,4.4377,10,10c0,0.6837-0.0705,1.3557-0.2033,2H196V56H56z"/>
+	<rect x="196" y="56" fill="#BC9A67" width="8" height="64"/>
+	<rect x="12" y="56" fill="#BC9A67" width="8" height="16"/>
+	<rect x="12" y="104" fill="#BC9A67" width="8" height="16"/>
+	<rect x="12" y="80" fill="#BC9A67" width="8" height="16"/>
+	<path fill="#B976DD" d="M192,22c0-5.5623-4.4765-10-10-10h-80c-5.5096,0-10,4.4765-10,10c0,0.6877,0.0704,1.3557,0.2012,2h99.5955
+		C191.9295,23.3557,192,22.6837,192,22z"/>
+	<polygon fill="#9AB040" points="8.008,56 12,56 20,56 48,56 48,24 8.008,24 8,24 8,56 	"/>
+	<polygon fill="#9AB040" points="196,56 204,56 207.992,56 207.9979,56 208,24 207.992,24 191.7967,24 92.2012,24 56,24 56,56 	"/>
+	<path fill="#8F89F5" d="M182,108h-80c-5.5096,0-10,4.4765-10,10c0,0.6877,0.0704,1.3557,0.2012,2h99.5955
+		c0.1328-0.6443,0.2033-1.3163,0.2033-2C192,112.4377,187.5235,108,182,108z"/>
+	<polygon fill="#9AB040" points="207.992,120 204,120 196,120 191.7967,120 92.2012,120 56,120 56,152 207.992,152 207.9979,152 
+		208,120 	"/>
+	<polygon fill="#9AB040" points="20,120 12,120 8.008,120 8,120 8,152 8.006,152 48,152 48,120 	"/>
+	<polygon fill="#89714D" points="208,0 208,24 208,56 208,120 208,152 208,160 216,160 216,144.008 216,127.992 216,48.008 
+		216,31.992 216,0 	"/>
+	<path fill="#89714D" d="M56,104v-8V80v-8V56V24V0h-8v24v32v16H20h-8H8V56V24V0H0v31.992v16.016V72v8v16v8v23.992v16.016V160h8v-8
+		v-32v-16h4h8h28v16v32v8h8v-8v-32V104z M20,96h-8H8V80h4h8h28v16H20z"/>
+</g>
+</svg>

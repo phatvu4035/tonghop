@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="hanger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 192" enable-background="new 0 0 200 192" xml:space="preserve">
+<g>
+	<path fill="#A48659" d="M48,156h-8H0v36h200v-44H88v8H48z M112,168H88v-8h24V168z"/>
+	<rect x="88" y="160" fill="#FFDC82" width="24" height="8"/>
+	<path fill="#BC9A67" d="M48,156V0h-8H0v156h40H48z M28,64h8v20h-8V64z"/>
+	<path fill="#89714D" d="M188,56V32h12v-8H88V0H48v156h40v-8V32h12v24h8V32h32v24h8V32h32v24H188z M68,64h8v20h-8V64z"/>
+	<rect x="28" y="64" fill="#FFDC82" width="8" height="20"/>
+	<rect x="68" y="64" fill="#FFDC82" width="8" height="20"/>
+</g>
+</svg>

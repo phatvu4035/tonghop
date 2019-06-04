@@ -1,0 +1,97 @@
+body {
+    background: blueviolet;
+}
+.container {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.circle-container {
+    width: 400px;
+    height: 200px;
+    background: red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.circle-container:after {
+    content: '';
+    width: 20px;
+    height: 5px;
+    position: absolute;
+    background: black;
+    border-radius: 50%;
+    bottom: 0;
+    left: 50%;
+    opacity: 0.6;
+    animation: shadow 10s linear infinite;
+}
+.circle {
+    width: 15px;
+    height: 15px;
+    background: #ffff;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    animation: anim 10s linear infinite;
+}
+
+.circle:nth-child(2) {
+    display: none;
+    animation-delay: -0.3s;
+}
+.circle:nth-child(3) {
+    display: none;
+    animation-delay: -0.6s;
+}
+
+@keyframes anim {
+    0% {
+        transform-origin: 400% 50%;
+        transform: rotate(0);
+    }
+    50% {
+        transform-origin: 400% 50%;
+        transform: rotate(360deg);
+    }
+    50.1% {
+        transform-origin: -300% 50%;
+        transform: rotate(0deg);
+    }
+    100% {
+        transform-origin: -300% 50%;
+        transform: rotate(-360deg);
+    }
+}
+
+@keyframes shadow {
+    0 {}
+    12.5% {
+        transform: translate(50px) scale(0.6);
+    }
+    25% {
+        transform: translate(110px);
+
+}
+    37.5% {
+    transform: translate(50px) scale(1.4);
+}
+    50% {
+    transform: translate(0px);
+}
+    62.5% {
+    transform: translate(-50px) scale(0.6);
+}
+    75% {
+    transform: translate(-110px);
+}
+    87.5% {
+    transform: translate(-50%) scale(1.4);
+}
+    100% {
+    transform: translate(0);
+}
+}

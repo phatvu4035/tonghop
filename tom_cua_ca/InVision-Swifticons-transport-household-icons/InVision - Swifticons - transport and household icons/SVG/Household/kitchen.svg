@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="kitchen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 236 216" enable-background="new 0 0 236 216" xml:space="preserve">
+<g>
+	<path fill="#89714D" d="M220,204h-68H84H16c-2.2089,0-4-1.7892-4-4v-4c-2.2089,0-4,1.7892-4,4v12c0,2.2108,1.7911,4,4,4h212
+		c2.2087,0,4-1.7892,4-4v-12c0-2.2108-1.7913-4-4-4v4C224,202.2108,222.2087,204,220,204z"/>
+	<path fill="#89714D" d="M80,144H20v52h60V144z M76,164h-8v-12h8V164z"/>
+	<path fill="#89714D" d="M148,144H88v52h60V144z M144,164h-8v-12h8V164z"/>
+	<path fill="#89714D" d="M156,196h60v-52h-60V196z M204,152h8v12h-8V152z"/>
+	<path fill="#E1AD99" d="M80,24H20v52h60V24z M76,64h-8V52h8V64z"/>
+	<path fill="#E1AD99" d="M88,92h60V20V8H88v12v60V92z M136,52h8v12h-8V52z"/>
+	<path fill="#FFE9E1" d="M16,100h68h68h68c2.2087,0,4-1.7892,4-4V20c0-2.2108-1.7913-4-4-4h-64V4c0-2.2108-1.7913-4-4-4H84
+		c-2.2089,0-4,1.7892-4,4v12H16c-2.2089,0-4,1.7892-4,4v60v16C12,98.2108,13.7911,100,16,100z M20,84h60v8H20V84z M216,24v68h-60V24
+		H216z M88,8h60v12v72H88V80V20V8z M20,24h60v52H20V24z"/>
+	<rect x="20" y="84" fill="#E1AD99" width="60" height="8"/>
+	<rect x="68" y="152" fill="#A48659" width="8" height="12"/>
+	<rect x="68" y="52" fill="#FFE9E1" width="8" height="12"/>
+	<rect x="136" y="152" fill="#A48659" width="8" height="12"/>
+	<rect x="136" y="52" fill="#FFE9E1" width="8" height="12"/>
+	<rect x="204" y="152" fill="#A48659" width="8" height="12"/>
+	<path fill="#A48659" d="M236,144v-8h-16h-68H84H16H0v8h12v52v4c0,2.2108,1.7911,4,4,4h68h68h68c2.2087,0,4-1.7892,4-4v-4v-52H236z
+		 M20,144h60v52H20V144z M88,144h60v52H88V144z M216,196h-60v-52h60V196z"/>
+	<path fill="#E1AD99" d="M216,92V24h-60v68H216z M204,52h8v12h-8V52z"/>
+	<rect x="204" y="52" fill="#FFE9E1" width="8" height="12"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="windowdoor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 204" enable-background="new 0 0 180 204" xml:space="preserve">
+<g>
+	<path fill="#89714D" d="M160,0H24v196h136V0z M64,116H36v-8h28V116z M96,104h-8H36V12h52h8h52v92H96z"/>
+	<rect x="44" y="20" fill="#DBEEF7" width="44" height="76"/>
+	<rect x="96" y="20" fill="#DBEEF7" width="44" height="76"/>
+	<path fill="#7BE5E4" d="M96,12h-8H36v92h52h8h52V12H96z M88,96H44V20h44V96z M140,96H96V20h44V96z"/>
+	<rect x="36" y="108" fill="#DBEEF7" width="28" height="8"/>
+	<polygon fill="#4F676D" points="160,196 24,196 0,196 0,204 24,204 160,204 180,204 180,196 	"/>
+</g>
+</svg>

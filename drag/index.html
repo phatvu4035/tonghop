@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Drag the slide</title>
+</head>
+<body>
+	<style>
+	body {
+		font-family: Helvetica, sans-serif;
+		color: #000;
+		background-color: #9BF;
+		margin: 0; 
+		padding: 0;
+
+	}
+	.main {
+		width: 600px;
+		padding: 10px 50px;
+		margin: 0px auto;
+		background-color: #92A9EB;
+		border-radius: 0px 60px;
+	}
+
+	.wrapper {
+		position: relative;
+		height: 30px;
+		background: #EEE;
+	}
+	.wrapper .handle {
+		position: absolute;
+		cursor: pointer;
+	}
+
+	.wrapper .red-bar {
+		width: 100px;
+		height: 30px;
+		background: #CC0000;
+		color: #FFF;
+		line-height: 30px;
+		text-align: center;
+	}
+
+</style>
+<div class="main">
+	<div class="slider">
+		<div class="wrapper">
+			<div class="handle red-bar">Slide Me!</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	let dragging = false;
+	let mouseX = 0,  mouseY = 0;
+	let prevTargetX = 0, prevTargetY = 0;
+	let targetX = 0, targetY = 0;
+	let xRange = 0, yRange = 0;
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="stand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 232.0351 132" enable-background="new 0 0 232.0351 132" xml:space="preserve">
+<g>
+	<path fill="#FFAE8E" d="M120,108h95.9607c4.4336,0,8.0393-3.5703,8.0393-7.9607V60H120V108z"/>
+	<path fill="#FFAE8E" d="M120,52h104V28H120V52z M192,36v8h-40v-8H192z"/>
+	<path fill="#FFAE8E" d="M8,52h104V28H8V52z M40,36h40v8H40V36z"/>
+	<path fill="#FFAE8E" d="M8,60v40.0393C8,104.4297,11.6055,108,16.0391,108H112V60H8z"/>
+	<path fill="#E06C3E" d="M232.0351,52H232V28h-8v24H120V28h-8v24H8V28H0v24v8v40.0393c0,5.8904,3.2383,10.9724,8,13.738V132h8
+		v-16.004c0.0115,0,0.0235,0.004,0.0391,0.004H112h8h95.9607c0.0156,0,0.0276-0.004,0.0393-0.004V132h8v-18.2263
+		c4.7579-2.7697,8-7.8516,8-13.7344V60h0.0351V52z M16.0391,108C11.6055,108,8,104.4297,8,100.0393V60h104v48H16.0391z
+		 M224,100.0393c0,4.3904-3.6057,7.9607-8.0393,7.9607H120V60h104V100.0393z"/>
+	<rect x="40" y="36" fill="#E06C3E" width="40" height="8"/>
+	<rect x="152" y="36" fill="#E06C3E" width="40" height="8"/>
+	<polygon fill="#49A25A" points="112,28 120,28 224,28 232,28 232,20 232,0 0,0 0,20 0,28 8,28 	"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bigwardrobe" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 176 212" enable-background="new 0 0 176 212" xml:space="preserve">
+<g>
+	<rect x="28" y="200" fill="#4F676D" width="8" height="12"/>
+	<rect x="148" y="200" fill="#4F676D" width="8" height="12"/>
+	<path fill="#50CCD3" d="M56,196V4c0-2.2088,1.7891-4,4-4H19.9727C8.9607,0,0,8.9904,0,20.0392v159.9216
+		C0,191.0096,8.9607,200,19.9727,200H28h8h24C57.7891,200,56,198.2088,56,196z M48,112h-8V84h8V112z"/>
+	<path fill="#50CCD3" d="M156.0271,0H116c2.2107,0,4,1.7912,4,4v192c0,2.2088-1.7893,4-4,4h32h8h0.0271
+		C167.0391,200,176,191.0096,176,179.9608V20.0392C176,8.9904,167.0391,0,156.0271,0z M136,112h-8V84h8V112z"/>
+	<path fill="#3BABB7" d="M120,196V4c0-2.2088-1.7893-4-4-4H60c-2.2109,0-4,1.7912-4,4v192c0,2.2088,1.7891,4,4,4h56
+		C118.2107,200,120,198.2088,120,196z M80,112h-8V84h8V112z"/>
+	<rect x="40" y="84" fill="#DBEEF7" width="8" height="28"/>
+	<rect x="72" y="84" fill="#DBEEF7" width="8" height="28"/>
+	<rect x="128" y="84" fill="#DBEEF7" width="8" height="28"/>
+</g>
+</svg>

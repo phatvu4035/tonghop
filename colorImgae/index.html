@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tint Color</title>
+	</head>
+<body>
+	<div>
+	    <div class="item" id="originImg"></div>
+	</div>
+	<div>
+	    <div class="item" id="newImg1"></div>
+	    <div class="item" id="newImg2"></div>
+	    <div class="item" id="newImg3"></div>
+	</div>
+	
+	<script src="TintColor.js"></script>
+	<script>
+		const srcImg = 'https://res.cloudinary.com/drcrre4xg/image/upload/c_scale,w_200/v1515227140/star-yellow_hjfybq.png';
+
+		document.addEventListener("DOMContentLoaded", 
+			event => {
+				let $ = document.querySelector.bind(document);
+				setImage($("#originImg"), srcImg, 150, 150);
+
+				new TintColor(srcImg, "#ff0000").run().then(result => setImage($("#newImg1"), result.url, 150, 150 ))
+							.catch( err => console.log(err) );
+			});
+		function setImage(divElement, srcURL, width, height) {
+			divElement.style.width = width + "px";
+			divElement.style.height = height + "px";
+			divElement.style.backgroundImage = "url('" + srcURL + "')";
+			divElement.style.backgroundSize = "" + width + "px" + height + "px";
+		}
+
+	</script>
+</body>
+</html>

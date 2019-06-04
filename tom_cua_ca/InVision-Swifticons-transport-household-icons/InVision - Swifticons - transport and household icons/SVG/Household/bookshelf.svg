@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bookshelf" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 104 224" enable-background="new 0 0 104 224" xml:space="preserve">
+<g>
+	<polygon fill="#89714D" points="84,132 80,132 72,132 8,132 8,168 16,168 16,140 24,140 24,168 28,168 28,140 36,140 36,168 
+		96,168 96,132 92,132 	"/>
+	<polygon fill="#89714D" points="8,124 16,124 16,96 24,96 24,124 28,124 28,104 36,104 36,124 72,124 72,104 80,104 80,124 84,124 
+		84,104 92,104 92,124 96,124 96,88 8,88 	"/>
+	<polygon fill="#89714D" points="8,208 16,208 76,208 76,180 84,180 84,208 88,208 96,208 96,176 8,176 	"/>
+	<path fill="#89714D" d="M87.9763,8H16.0235C11.5975,8,8,11.576,8,15.9709V40h12V20h8v20h68V15.9709C96,11.576,92.4023,8,87.9763,8z
+		"/>
+	<polygon fill="#89714D" points="20,48 8,48 8,80 32,80 32,52 40,52 40,80 63.6951,80 54.9491,53.4533 62.5467,50.9493 72.1171,80 
+		96,80 96,48 28,48 	"/>
+	<path fill="#BC9A67" d="M87.9763,0H16.0235C7.1483,0,0,7.1505,0,15.9709V40v8v32v8v36v8v36v8v40h8v8h8v-8h72v8h8v-8h8v-40v-8v-36
+		v-8V88v-8V48v-8V15.9709C104,7.1877,96.828,0,87.9763,0z M96,208h-8h-4h-8H16H8v-32h88V208z M96,168H36h-8h-4h-8H8v-36h64h8h4h8h4
+		V168z M96,124h-4h-8h-4h-8H36h-8h-4h-8H8V88h88V124z M96,80H72.1171h-8.422H40h-8H8V48h12h8h68V80z M28,40h-8H8V15.9709
+		C8,11.576,11.5975,8,16.0235,8h71.9528C92.4023,8,96,11.576,96,15.9709V40H28z"/>
+	<rect x="20" y="20" fill="#FD5A5A" width="8" height="20"/>
+	<rect x="32" y="52" fill="#FFDC82" width="8" height="28"/>
+	<rect x="28" y="140" fill="#49A25A" width="8" height="28"/>
+	<rect x="16" y="140" fill="#49A25A" width="8" height="28"/>
+	<rect x="76" y="180" fill="#FFDC82" width="8" height="28"/>
+	<rect x="16" y="96" fill="#FFDC82" width="8" height="28"/>
+	<rect x="28" y="104" fill="#49A25A" width="8" height="20"/>
+	<rect x="72" y="104" fill="#FD5A5A" width="8" height="20"/>
+	<rect x="84" y="104" fill="#BDB9FF" width="8" height="20"/>
+	<polygon fill="#BDB9FF" points="54.9491,53.4533 63.6951,80 72.1171,80 62.5467,50.9493 	"/>
+</g>
+</svg>
